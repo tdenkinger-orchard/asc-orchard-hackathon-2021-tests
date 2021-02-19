@@ -2,6 +2,7 @@
 const { SPANISH_TO_ENGLISH, TRACK_LIST } = require('./constants.js')
 
 const newSingle = (single) => {
+  return 'New single Drip is dropping soon!';
   // insert code
 };
 
